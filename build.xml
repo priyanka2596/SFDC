@@ -24,9 +24,9 @@
 
                      serverurl="${sf2.serverurl}"
 
-                     retrieveTarget="retrievecode"
+                     retrieveTarget="src"
 
-                     unpackaged="deploycode/package.xml"/>
+                     unpackaged="src/package.xml"/>
 
     </target>
 </project>
