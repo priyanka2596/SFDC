@@ -13,6 +13,7 @@
 		   
 		     autoUpdatePackage="true"
 
+		     deployRoot="deploycode"
                      ignoreWarnings="true" />
  </target>
 <target name="fetchChanges">
