@@ -14,5 +14,6 @@
     "username": "priyanka2@slk.com",
     "password": "salesforce@19wX5DCY4aABmP8gChOYtabSQ7",
     "url": "https://login.salesforce.com",
-    "autoCompile": false
+    "autoCompile": false,
+    "src": "src"
 }
