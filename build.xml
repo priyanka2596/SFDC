@@ -26,7 +26,7 @@
 
                      retrieveTarget="retrievecode"
 
-                     unpackaged="/src/package.xml"/>
+                     unpackaged="deploycode/package.xml"/>
 
     </target>
 </project>
