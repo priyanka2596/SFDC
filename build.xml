@@ -10,9 +10,7 @@
                      password="${sf2.password}" 
 
                      serverurl="${sf2.serverurl}" 
-
-                     deployRoot="src"
-		     
+		   
 		     autoUpdatePackage="true"
 
                      ignoreWarnings="true" />
