@@ -5,13 +5,13 @@
 
     <target name="deploy">
 
-        <sf:deploy username="${sf2.username}" 
+        <sf:deploy username="${sf1.username}" 
 
-                     password="${sf2.password}" 
+                     password="${sf1.password}" 
 
-                     serverurl="${sf2.serverurl}" 
+                     serverurl="${sf1.serverurl}" 
 
-                     deployRoot="src"
+                     deployRoot="Delta"
 		     
 		     autoUpdatePackage="true"
 
