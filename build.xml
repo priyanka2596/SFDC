@@ -16,7 +16,7 @@
 		     deployRoot="deploycode"
                      ignoreWarnings="true" />
  </target>
-<target name="fetchChanges">
+<target name="fetchChangesorg">
 
         <sf:retrieve username="${sf2.username}"
 
