@@ -13,7 +13,7 @@
 		   
 		     autoUpdatePackage="true"
 
-		     deployRoot="deploycode"
+		     deployRoot="Delta"
                      ignoreWarnings="true" />
  </target>
 <target name="fetchChangesorg">
